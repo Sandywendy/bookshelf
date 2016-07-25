@@ -10,7 +10,7 @@ html {
 }
 
 body {
-  font-family: "Noticia Text", "游明朝", YuMincho, "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN", "HG明朝E", "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+  font-family: 'ABeeZee';
   font-size: inherit;
   font-size: inherit;
   color: #000;
@@ -114,7 +114,7 @@ h5 { font-size: 1rem; line-height: 1rem; }
 
 /* Parts:logo */
 .p-logo a {
-  font-family: 'Marcellus SC', cursive;
+  font-family: 'ABeeZee';
   font-size: 2rem;
 }
 
